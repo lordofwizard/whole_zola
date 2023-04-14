@@ -1,9 +1,9 @@
 # Base URL of the site, the only required config argument
-base_url = "https://example.com/blog"
+base_url = "https://lordofwizard.github.io/"
 
 # Used in RSS by default
-title = "Hermit Zola"
-description = "My blog"
+title = "LordOfWizard"
+description = "Just discription of my deeds."
 # The default language, used in RSS
 default_language = "en"
 
@@ -62,7 +62,7 @@ extra_syntaxes = []
 # will be accessible in all templates
 [extra]
 
-home_subtitle = "Some profound and catchy statement"
+home_subtitle = "I am the guy she tells you not to worry about."
 
 footer_copyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -72,9 +72,9 @@ hermit_menu = [
 ]
 
 hermit_social = [
-    { name = "twitter", link = "https://twitter.com" },
-    { name = "github", link = "https://github.com" },
-    { name = "email", link = "mailto:author@domain.com" }
+    { name = "twitter", link = "https://twitter.com/_lordofwizard" },
+    { name = "github", link = "https://github.com/lordofwizard" },
+    { name = "email", link = "mailto:advait.work@gmail.com" }
 ]
 
 
@@ -88,7 +88,7 @@ theme = "railscasts"
 [extra.disqus]
 enable = false
 # Take this from your Disqus account
-shortname = "my-supa-dupa-blog"
+shortname = "lordofwizard"
 # Cpmments can be disabled per page by setting:
 # [extra]
 # disable_comments = true
@@ -97,8 +97,8 @@ shortname = "my-supa-dupa-blog"
 
 
 [extra.author]
-name = "The Author"
-email = "author@domain.com"
+name = "LordOfWizard"
+email = "advait.work@gmail.com"
 
 [extra.google_analytics]
 enable = false

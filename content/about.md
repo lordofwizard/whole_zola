@@ -2,7 +2,7 @@
 title="About"
 +++
 
-
+![Naruto](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F5%2FNaruto-PNG-Download-Image.png&f=1&nofb=1&ipt=9462121e89a622370f608ed7367ccb26c3fb69a5db644baa46fece57d0405112&ipo=images)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in urna interdum, semper ligula non, tempus felis. Etiam a lorem eros. Proin ultricies et felis non aliquam. Vivamus interdum egestas nulla et accumsan. Proin fringilla nisl id lectus vehicula elementum. In sed lacus rutrum, varius ipsum ac, suscipit ipsum. Donec facilisis efficitur dui eget suscipit. Praesent lobortis nisi in sapien interdum maximus. Phasellus pulvinar faucibus arcu, tristique egestas orci tincidunt id. Pellentesque malesuada maximus augue, ut pretium magna accumsan mattis. In tincidunt ex non diam convallis semper. Nulla eget turpis ac massa eleifend pellentesque at id lorem.
 
