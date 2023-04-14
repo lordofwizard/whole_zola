@@ -1,15 +1,45 @@
 +++
-title="About"
+title="About mee"
 +++
 
-![Naruto](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F5%2FNaruto-PNG-Download-Image.png&f=1&nofb=1&ipt=9462121e89a622370f608ed7367ccb26c3fb69a5db644baa46fece57d0405112&ipo=images)
+![ME](https://i.pinimg.com/564x/17/5d/19/175d19309b89692fb33caa4a5329db96.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in urna interdum, semper ligula non, tempus felis. Etiam a lorem eros. Proin ultricies et felis non aliquam. Vivamus interdum egestas nulla et accumsan. Proin fringilla nisl id lectus vehicula elementum. In sed lacus rutrum, varius ipsum ac, suscipit ipsum. Donec facilisis efficitur dui eget suscipit. Praesent lobortis nisi in sapien interdum maximus. Phasellus pulvinar faucibus arcu, tristique egestas orci tincidunt id. Pellentesque malesuada maximus augue, ut pretium magna accumsan mattis. In tincidunt ex non diam convallis semper. Nulla eget turpis ac massa eleifend pellentesque at id lorem.
+### Who am i?
 
-Donec sit amet tincidunt mauris, at volutpat nibh. Vestibulum diam velit, sodales nec neque cursus, aliquam efficitur ante. Phasellus id fermentum eros. Praesent elementum nibh at nunc varius maximus. Donec imperdiet pulvinar lectus vulputate tempus. Mauris lacinia lorem consequat est viverra, vitae tristique leo tempor. Pellentesque ullamcorper porta ligula. Nulla convallis orci a ligula sagittis ornare. Ut eget sodales massa, id tincidunt diam. Cras eget ullamcorper nibh. Suspendisse bibendum aliquam justo quis dictum. Vestibulum porta facilisis tellus, nec placerat massa semper id. Integer ullamcorper nibh orci, ut sagittis purus hendrerit non.
+You might ask, Well the simple answer to that is I am just another guy.
 
-Phasellus et ornare risus. Curabitur nec rhoncus velit. Duis non nisl id nulla maximus commodo sit amet vitae orci. Cras facilisis viverra laoreet. In eros risus, auctor ut aliquam a, aliquet ut odio. Cras rutrum blandit luctus. Donec porttitor, turpis non tempor interdum, nunc orci cursus ex, eu porttitor lectus tellus vel nisl. Vivamus congue, sapien at tincidunt blandit, libero sapien malesuada nibh, id blandit sapien mauris vel sapien.
+---
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas pulvinar nibh nec feugiat gravida. Pellentesque posuere nisi pretium quam vulputate, at iaculis nisi sollicitudin. Nam sit amet ultrices mauris. Suspendisse suscipit, nunc sit amet blandit auctor, eros lectus elementum orci, a cursus nunc elit eleifend nisl. Nunc porta mollis convallis. In hendrerit ultrices sem a porttitor. Aliquam erat volutpat. Sed hendrerit nulla id iaculis fermentum. Aliquam sit amet elementum tortor. Nulla dolor quam, blandit sit amet convallis vel, venenatis vitae turpis. Sed volutpat fermentum nisi et molestie.
+### Whats so special about me?
 
-Cras id lectus laoreet, luctus augue eu, tristique lacus. Quisque feugiat ipsum vel consequat pharetra. Morbi fermentum nibh ornare egestas imperdiet. Vestibulum iaculis felis id turpis dictum, sit amet tincidunt velit consequat. Morbi facilisis erat id efficitur ultricies. Donec sollicitudin luctus justo at tincidunt. Etiam in vestibulum dolor. In vel velit elementum sapien rutrum laoreet. Aliquam pellentesque ornare blandit. Integer bibendum lacus sit amet nibh tempor, et dictum odio scelerisque. Vivamus suscipit lacus id felis condimentum, varius ornare nunc vulputate. Integer nec magna non dui consequat dignissim. Cras justo nibh, pretium eu arcu finibus, mattis porttitor nibh. Nulla ut euismod felis, id ultrices sapien. Suspendisse commodo est erat, ut faucibus nisi hendrerit eget. Maecenas urna diam, condimentum at vehicula vitae, tincidunt a ligula. 
+Well, i am not just another guy, there are many layers to my personality.
+
+---
+
+### What do i do?
+
+I am currently as the time of writing this commit, a student in Ajeenkya DY Patil School of Engineering and currently Doing Bachelors Degree in Computer Engineering.
+
+That's not it. I am also a active member in my college, I am currently posted as Vice President of our Computer Science Commitee.
+
+I write software (mostly in [Rust](https://rust-lang.org/) ), and i **LOVE** Rust to the bottom of my heart. It's been a real game changer for me in terms of my learning ability and writing software in general.
+
+---
+
+### What are my specialities?
+
+I am good at coding and public speaking (hire me lol!). Writing software and making projects. I am a decent [Chess](https://www.chess.com/member/lordofwizard) player.
+
+---
+
+### What i like?
+
+~~WOMEN~~, I like [Movies/Shows](https://www.imdb.com/user/ur125351219/ratings). I also like Jazz and Phonk [Music](https://open.spotify.com/user/lb0a8e2ycjb9zmisdyyetw324). A bit Anime too.
+
+---
+
+### Am i available?
+
+**NO**
+
+---
